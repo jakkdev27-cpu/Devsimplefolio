@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)](#)
 
-Portfolio personnel de Kokou Jean Apôtre KPETSI, construit à partir du template Simplefolio et personnalisé avec un design moderne, sombre et premium.
+Portfolio personnel de Jean KPETSI, construit à partir du template Simplefolio et personnalisé avec un design moderne, sombre et premium.
 
 <p align="center">
   <img src="src/assets/jakk-logo-1024.png" alt="Logo DevSimplefolio" width="220" />
